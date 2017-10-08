@@ -10,7 +10,7 @@
 ### TABLE OF CONTENT
 
 |Date      |Title|Description|
-|:---------|:----||
+|:---------|:----|:----------|
 |2017-09-15|[はじめに](https://www.babyinvestment.com/py4son/01_preface)||
 |2017-09-21|[Raspberry Jam Mod](https://www.babyinvestment.com/py4son/02_install)|Minecraft Java EditionにRaspberry Jam Modを導入してサンプルを実行してみた|
 |2017-09-23|[ブロック配置 Part 1](https://www.babyinvestment.com/py4son/03_setblock)|for文を使ってブロックを平面上に配置してみた|
