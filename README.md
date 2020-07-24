@@ -14,4 +14,4 @@
 |2017-09-23|[ブロック配置 Part 1](https://babyinvestment.com/py4son/03_setblock)|for文を使ってブロックを平面上に配置してみた|
 |2017-09-28|[ブロック配置 Part 2](https://babyinvestment.com/py4son/04_circle)|for文を使ってブロックを円状に配置してみた|
 |2017-09-29|[ブロック配置 Part 3](https://babyinvestment.com/py4son/05_pyramid)|for文を使ってブロックでピラミッドを建造してみた|
-|2017-10-03|[ブロック配置 Part 4](https://babyinvestment.com/py4son/06_array)|
+|2017-10-03|[ブロック配置 Part 4](https://babyinvestment.com/py4son/06_array)|配列を使って任意のブロックを配置してみた|
